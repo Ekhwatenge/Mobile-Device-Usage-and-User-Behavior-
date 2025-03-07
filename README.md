@@ -1,5 +1,5 @@
 # Mobile-Device-Usage-and-User-Behavior-
-This dataset provides a comprehensive analysis of mobile device usage patterns and user behavior classification. It contains 700 samples of user data, including metrics such as app usage time, screen-on time, battery drain, and data consumption. Each entry is categorized into one of five user behavior classes, ranging from light to extreme usage, allowing for insightful analysis and modeling.
+I got this dataset from Kaggle (https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset) and only did analysis. This dataset provides a comprehensive analysis of mobile device usage patterns and user behavior classification. It contains 700 samples of user data, including metrics such as app usage time, screen-on time, battery drain, and data consumption. Each entry is categorized into one of five user behavior classes, ranging from light to extreme usage, allowing for insightful analysis and modeling.
 
 Features:
 1. User ID: Unique identifier for each user.
